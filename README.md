@@ -46,15 +46,15 @@ I am a strong advocate for open-source software and actively contribute to the A
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FunctionFlow1&show_icons=true&theme=radical&count_private=true" alt="Alexander's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FunctionFlow1&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=radical&count_private=true" alt="Alexander's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunctionFlow1&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunctionFlow1&layout=compact&hide_progress=true&cache_seconds=1800&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FunctionFlow1&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FunctionFlow1&cache_seconds=1800&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
